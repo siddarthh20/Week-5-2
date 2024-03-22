@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65e601de7775dcfb7e570f10"
+  },
+  "studentid": "001",
+  "name": "John Doe",
+  "activitytype": "Sports",
+  "duration": "2 years",
+  "achievements": "Won regional championship"
+},
+{
+  "_id": {
+    "$oid": "65e601de7775dcfb7e570f11"
+  },
+  "studentid": "002",
+  "name": "Alice Smith",
+  "activitytype": "Music",
+  "duration": "3 years",
+  "achievements": "Performed in school concerts"
+},
+{
+  "_id": {
+    "$oid": "65e601e4e631237ed7699519"
+  },
+  "studentid": "001",
+  "name": "John Doe",
+  "activitytype": "Sports",
+  "duration": "2 years",
+  "achievements": "Won regional championship"
+},
+{
+  "_id": {
+    "$oid": "65e601e4e631237ed769951a"
+  },
+  "studentid": "002",
+  "name": "Alice Smith",
+  "activitytype": "Music",
+  "duration": "3 years",
+  "achievements": "Performed in school concerts"
+}]
