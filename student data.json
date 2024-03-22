@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "65e5f50c99e22b88474ee609"
+  },
+  "studentid": 1001,
+  "studentName": "Chandu Kumar",
+  "subjects": [
+    "Java",
+    ".net"
+  ],
+  "grade": "A+"
+},
+{
+  "_id": {
+    "$oid": "65e5f6c014d579febd391625"
+  },
+  "studentid": 1002,
+  "studentName": "ram Kumar",
+  "subjects": [
+    "Salesforce",
+    ".net"
+  ],
+  "grade": "A"
+},
+{
+  "_id": {
+    "$oid": "65e5f6c014d579febd391626"
+  },
+  "studentid": 1003,
+  "studentName": "Kumar Kumar",
+  "subjects": [
+    "Service now",
+    ".net"
+  ],
+  "grade": "B"
+},
+{
+  "_id": {
+    "$oid": "65e5f6c014d579febd391627"
+  },
+  "studentid": 1004,
+  "studentName": "Pavan Kumar",
+  "subjects": [
+    "Java",
+    "salesforce"
+  ],
+  "grade": "A+"
+},
+{
+  "_id": {
+    "$oid": "65e842efc8f1fac41529787a"
+  },
+  "student_id": 1,
+  "name": "Chandu",
+  "grades": [
+    {
+      "subject": "java",
+      "grade": "A"
+    }
+  ],
+  "other_info": "Java"
+},
+{
+  "_id": {
+    "$oid": "65e8432342420059b9b1e5fd"
+  },
+  "student_id": 1,
+  "name": "Chandu",
+  "grades": [
+    {
+      "subject": "java",
+      "grade": "A"
+    }
+  ],
+  "other_info": "Java"
+},
+{
+  "_id": {
+    "$oid": "65e9ed28bc57b2bf8112d88b"
+  },
+  "student_id": 1,
+  "name": "Chandu",
+  "grades": [
+    {
+      "subject": "java",
+      "grade": "A"
+    }
+  ],
+  "other_info": "Java"
+},
+{
+  "_id": {
+    "$oid": "65e9ed28bc57b2bf8112d88c"
+  },
+  "student_id": 1,
+  "name": "sasu",
+  "grades": [
+    {
+      "subject": "python",
+      "grade": "A+"
+    }
+  ],
+  "other_info": "Java"
+},
+{
+  "_id": {
+    "$oid": "65e9ed28bc57b2bf8112d88d"
+  },
+  "student_id": 1,
+  "name": "Koushik",
+  "grades": [
+    {
+      "subject": "C",
+      "grade": "A"
+    }
+  ],
+  "other_info": "Java"
+},
+{
+  "_id": {
+    "$oid": "65e9ed28bc57b2bf8112d88e"
+  },
+  "student_id": 1,
+  "name": "Harsha",
+  "grades": [
+    {
+      "subject": "C++",
+      "grade": "A+"
+    }
+  ],
+  "other_info": "Java"
+},
+{
+  "_id": {
+    "$oid": "65eaf6495230db4dbb931bf4"
+  },
+  "student_id": 1,
+  "name": "Chandu",
+  "grades": [
+    {
+      "subject": "java",
+      "grade": "A"
+    }
+  ],
+  "other_info": "Java"
+}]
